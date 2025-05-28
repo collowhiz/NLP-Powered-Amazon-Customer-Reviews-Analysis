@@ -1,7 +1,7 @@
 # NLP-Powered-Amazon-Customer-Reviews-Analysis
 NLP-Powered Customer Review Analysis for Business Insights and Strategy Optimization
 
-# 🧠 NLP for Customer Review Analysis: Driving Business Insights
+#  NLP for Customer Review Analysis: Driving Business Insights
 
 A natural language processing project that analyzes over 568,000 Amazon customer reviews to extract meaningful business insights. Combining SQL and Python, the project reveals customer sentiment, identifies common concerns, and helps inform product, support, and marketing strategies.
 
