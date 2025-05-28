@@ -32,7 +32,7 @@ A natural language processing project that analyzes over 568,000 Amazon customer
 
 ## 📊 Sample Insights
 
-- **Top Words**: "the", "i", "and", "a", "it"
+- **Top Words**: "like", "good", "taste", "coffee", "tea", "product", "flavour"
 - **Sentiment Distribution**: Majority of reviews are positive (Score 5)
 - **Customer Complaints**: Shipping, packaging, and taste are common concerns
 - **Product Praise**: Taste, quality, and price are frequent positive mentions
